@@ -11,9 +11,9 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 ### Publication
 
-**The Effect of Customer and Supplier Concentrations on Firm Resilience during The COVID‐19 Pandemic: Resource Dependence and Power Balancing.** Journal of Operations Management,_ 2023,_ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
+**The Effect of Customer and Supplier Concentrations on Firm Resilience during The COVID‐19 Pandemic: Resource Dependence and Power Balancing.** _Journal of Operations Management, 2023,_ Jiang, S., Andy, C.L, Yeung., Han, Z., Huo, B.
 
-**Rigidity in Crisis: The Impact of OHSAS 18001 Certification on Production Repurposing in COVID-19.** _Production and Operations Management,_ 2025,_ with Ye, Y., Fan, D., Huo, B., Liu, M.
+**Rigidity in Crisis: The Impact of OHSAS 18001 Certification on Production Repurposing in COVID-19.** _Production and Operations Management, 2025,_ with Ye, Y., Fan, D., Huo, B., Liu, M.
 
 **Manufacturing Servitization and Bullwhip Effect.** _Management Science, 2025,_ with Niu, Y., Wu, Jing., and Jiang Z
 
@@ -25,7 +25,7 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 **Impact of Data Breach on IT Investment: Embracing both Failure Learning and Threat Rigidity.** _Production and Operations Management, 2025,_ with Wang, Q., Jin, Y., Peng, C.H.
 
-**Remote Learning and Educational Inequality.** _Production and Operations Management,_ 2024,_ with Zhanzhi Zheng and Ruomeng Cui
+**Remote Learning and Educational Inequality.** _Production and Operations Management, 2024,_ with Zhanzhi Zheng and Ruomeng Cui
 
 ### Under Revision
 
