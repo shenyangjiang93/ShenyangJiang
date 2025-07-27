@@ -29,9 +29,9 @@ I am an Assistant Professor of Operations Management at Tongji University. My pr
 
 ### Under Revision
 
-**The Environmental Impact of Sharing Economies: Evidence from Dockless Bike Entry.** _Production and Operations Management, Major Revision,_ with Liu, Q., Qiu，L., Huo, B.
+**The Environmental Impact of Sharing Economies: Evidence from Dockless Bike Entry.** _Under Major Revision at Production and Operations Management,_ with Liu, Q., Qiu，L., Huo, B.
 
-**Does Green Supplier Make Customer Greener? The Moderating Effect of Dependence in Customer-Supplier Dyads** _Manufacturing & Service Operations Management, Under 3rd Round Review,_ with Zhao, X., Ye, Y., Huo, B.
+**Does Green Supplier Make Customer Greener? The Moderating Effect of Dependence in Customer-Supplier Dyads** _Under 3rd Round Review at Manufacturing & Service Operations Management,_ with Zhao, X., Ye, Y., Huo, B.
 
 **From Seeing to Signing Up: The Co-Creative Dance of Humans and AI in Cultivating Symbiotic Uniqueness for Enhanced User Engagement.** _Under 2nd Major Revision at Information System Research_ with Lakhiwal, A., Liu, C., Duan, J.
 
